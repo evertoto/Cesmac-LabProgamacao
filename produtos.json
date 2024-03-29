@@ -1,0 +1,22 @@
+[
+    {"nome": "bolacha", "preco": 50},
+    {"nome": "caneta", "preco": 20},
+    {"nome": "caderno", "preco": 100},
+    {"nome": "lápis", "preco": 5},
+    {"nome": "borracha", "preco": 10},
+    {"nome": "livro", "preco": 80},
+    {"nome": "régua", "preco": 15},
+    {"nome": "cola", "preco": 30},
+    {"nome": "tesoura", "preco": 25},
+    {"nome": "agenda", "preco": 60},
+    {"nome": "estojo", "preco": 40},
+    {"nome": "mochila", "preco": 120},
+    {"nome": "giz de cera", "preco": 8},
+    {"nome": "pincel", "preco": 12},
+    {"nome": "apontador", "preco": 7},
+    {"nome": "lápis de cor", "preco": 18},
+    {"nome": "canetinha", "preco": 22},
+    {"nome": "borracha escolar", "preco": 6},
+    {"nome": "apagador", "preco": 14},
+    {"nome": "marcador", "preco": 35}
+]
