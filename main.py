@@ -4,8 +4,8 @@ from produtos.cadastraProdutos import cadastraProdutos
 from produtos.listagem import listaProdutos
 from filesystem import *
 
-cadastroPath = "cadastro.json"
-produtosPath = "produtos.json"
+cadastroPath = "data/cadastro.json"
+produtosPath = "data/produtos.json"
 
 cadastro = carregarJson(cadastroPath)
 
